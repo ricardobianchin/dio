@@ -27,6 +27,7 @@ O Índice é mantido automaticamente pelo extension do VSCode chamado "Markdown 
   - [8 Introdução a criação de websites com HTML5 e CSS3](#8-introdução-a-criação-de-websites-com-html5-e-css3)
   - [9 IDE Instalação e Configuração (Visual Studio Code)](#9-ide-instalação-e-configuração-visual-studio-code)
   - [10 Construindo páginas para internet com Bootstrap](#10-construindo-páginas-para-internet-com-bootstrap)
+  - [Dominando IDEs Java](#dominando-ides-java)
 
 ## 1. Aula de boas-vindas ao Bootcamp Inter Frontend Developer
 
@@ -107,14 +108,18 @@ O Índice é mantido automaticamente pelo extension do VSCode chamado "Markdown 
 
 ## 8 Introdução a criação de websites com HTML5 e CSS3
 
-[Certificado](https://digitalinnovation.one/certificate/B70930D0)
+[Certificado](https://www.dio.me/certificate/B70930D0)
 
 Para colocar em prática, criei e estou fazendo a manutenção da [minha página pessoal](https://ricardobianchin.github.io/bio/) no GitHub
 
 ## 9 IDE Instalação e Configuração (Visual Studio Code)
 
-[Certificado](https://digitalinnovation.one/certificate/FEB6DFE1E)
+[Certificado](https://www.dio.me/certificate/EB6DFE1E)
 
 ## 10 Construindo páginas para internet com Bootstrap
 
-[Certificado](https://digitalinnovation.one/certificate/F7C04C658)
+[Certificado](https://www.dio.me/certificate/7C04C658)
+
+## Dominando IDEs Java
+
+[Certificado](https://digitalinnovation.one/certificate/179AF40D)
